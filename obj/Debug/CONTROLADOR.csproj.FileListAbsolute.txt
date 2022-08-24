@@ -1,0 +1,15 @@
+D:\Software Mauro\CONTROLADOR\CONTROLADOR\bin\Debug\CONTROLADOR.exe.config
+D:\Software Mauro\CONTROLADOR\CONTROLADOR\bin\Debug\CONTROLADOR.exe
+D:\Software Mauro\CONTROLADOR\CONTROLADOR\bin\Debug\CONTROLADOR.pdb
+D:\Software Mauro\CONTROLADOR\CONTROLADOR\obj\Debug\CONTROLADOR.csproj.SuggestedBindingRedirects.cache
+D:\Software Mauro\CONTROLADOR\CONTROLADOR\obj\Debug\CONTROLADOR.Form1.resources
+D:\Software Mauro\CONTROLADOR\CONTROLADOR\obj\Debug\CONTROLADOR.Properties.Resources.resources
+D:\Software Mauro\CONTROLADOR\CONTROLADOR\obj\Debug\CONTROLADOR.csproj.GenerateResource.cache
+D:\Software Mauro\CONTROLADOR\CONTROLADOR\obj\Debug\CONTROLADOR.csproj.CoreCompileInputs.cache
+D:\Software Mauro\CONTROLADOR\CONTROLADOR\obj\Debug\CONTROLADOR.exe
+D:\Software Mauro\CONTROLADOR\CONTROLADOR\obj\Debug\CONTROLADOR.pdb
+D:\Software Mauro\CONTROLADOR\CONTROLADOR\bin\Debug\CircularProgressBar.dll
+D:\Software Mauro\CONTROLADOR\CONTROLADOR\bin\Debug\WinFormAnimation.dll
+D:\Software Mauro\CONTROLADOR\CONTROLADOR\bin\Debug\CircularProgressBar.xml
+D:\Software Mauro\CONTROLADOR\CONTROLADOR\obj\Debug\CONTROLADOR.csproj.CopyComplete
+D:\Software Mauro\CONTROLADOR\CONTROLADOR\obj\Debug\CONTROLADOR.csproj.AssemblyReference.cache
